@@ -1,4 +1,5 @@
 Minetest mod that adds various new blocks and items.
+![alt text](https://github.com/bark10/newblocks/blob/master/screenshot.png)
 
 ================================
 ## Nodes
