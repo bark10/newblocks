@@ -4,7 +4,8 @@ Minetest mod that adds various new blocks and items.
 ================================
 ## Nodes
 * Dry Leaves - Like green leaves, but dry
-* White Lamp - A bright lamp block
+* White Lamp - A dim lamp block
+* Bright White Lamp - A bright lamp block
 * Graywood (or aged wood) - Comes in three wood types. When steel wool is soaked in vinegar until the steel wool has been completely dissolved, this can be applied to wood to make it look aged.
 * Wardrobe (decorative)
 * Powered Torch - A brighter torch

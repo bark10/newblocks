@@ -39,6 +39,20 @@ minetest.register_node("newblocks:white_lamp", {
 	sounds = default.node_sound_glass_defaults(),
 })
 
+-- White light
+minetest.register_node("newblocks:bright_white_lamp", {
+	description = "Bright White Lamp",
+	use_texture_alpha = false,
+	tiles = {"newblocks_light.png"},
+	is_ground_content = false,
+	drawtype = "glasslike",
+	light_source = 15,
+	sunlight_propagates = false,
+	groups = {cracky = 2, stone = 1},
+	sounds = default.node_sound_glass_defaults(),
+})
+
+
 -- Graywood
 minetest.register_node("newblocks:graywood", {
 	description = "Graywood",
